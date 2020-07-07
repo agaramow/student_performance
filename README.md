@@ -2,7 +2,7 @@
 ### Computational Statistics Course 2020 
 
 ### The Project
-<a href="https://pdfs.semanticscholar.org/61d4/68d5254730bbecf822c6b60d7d6595d9889c.pdf?_ga=2.55301101.779715794.1594107255-2097271089.1594107255">*" by P. Cortez and A. Silva, 2008*</a>
+<https://pdfs.semanticscholar.org/61d4/68d5254730bbecf822c6b60d7d6595d9889c.pdf?_ga=2.55301101.779715794.1594107255-2097271089.1594107255> by P. Cortez and A. Silva, 2008
 
 The presented paper was motivated by the low performance of Portuguese students in European rankings 
 and the potential of Data Mining methods to provide an understanding of the underlying dynamics in the education sector. The authors use four Data Mining techniques, Decision Trees, Random Forest, Neural Network and Support Vector Machines. They show that although the prediction of the performance is dominated by the past performance there are other relevant features, e.g., number of absences, parent’s job and education, alcohol consumption, which help to explain students' performance.
