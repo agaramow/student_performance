@@ -2,11 +2,9 @@
 ### Computational Statistics Course 2020 
 
 ### The Project
+The authors of the presented paper show how Data Mining (DM) methods can be applied in the educational sector. Their motivation is based on two main developments: the low educational performance of Portuguese students at the European level and the increased use of DM methods in social science. They argue that DM methods may provide an understanding of the underlying dynamics in the education sector due to their potential prediction power. To demonstrate this, the authors use four DM techniques: Decision Trees, Random Forest, Neural Network and Support Vector Machines to predict the performance of Portugese students. The supervised learning of the methods use data which combines administrative and self reported data on achieved scores in the two core subjects, Maths and Portuguese and socio-economic background. They show that although the prediction of the students' performance is dominated by the past performance, there are other relevant features, e.g., number of absences, parent’s job and education, alcohol consumption, which help to explain students' performance. Finally, they conclude that more efficient prediction tools can be developed to aid the educational school resource management.
 
-The presented paper was motivated by the low performance of Portuguese students in European rankings 
-and the potential of Data Mining methods to provide an understanding of the underlying dynamics in the education sector. The authors use four Data Mining techniques, Decision Trees, Random Forest, Neural Network and Support Vector Machines. They show that although the prediction of the performance is dominated by the past performance there are other relevant features, e.g., number of absences, parent’s job and education, alcohol consumption, which help to explain students' performance.
-
-Following the idea of Cortez and Silva (2008), I use the paper data on Portuguese secondary school student to predict their performance using tree based methods, Bagging, Random Forest and Boosting. First, I will evaluate and compare the results from the three methods using two criteria, (1) prediction accuracy measured by the test MSE, (2) variable importance measured by the decrease in RSS, and (3) interpretability. In the second step, I compare my results to the results of Cortez and Silva (2008). Third, (if there is time) I will compare the performance of the sophisticated tree based methods to a simple linear regression.
+Following the argument of Cortez and Silva (2008), this notebook aims to compare the prediction performance of three tree based methods from our class: Bagging, Random Forest and Boosting versus the well known OLS/ Logistic regression. After evaluating and comparing the results from the different methods with each other and the results of Cortez and Silva (2008), I will assess their relative performance following the three measures: (1) prediction accuracy measured by the test MSE, (2) variable importance, and (3) interpretability. For robustness of the results, I model the achieved scores as a binary, five-level classification (European convention) and a 20-point grading scale response. 
 
 ### Course Instructor
 * Prof. Lena Janys
@@ -20,6 +18,6 @@ Following the idea of Cortez and Silva (2008), I use the paper data on Portugues
 ### Additional Material
 * xxx
 
-### Main References 
+### Main References and Links
 * <https://pdfs.semanticscholar.org/61d4/68d5254730bbecf822c6b60d7d6595d9889c.pdf?_ga=2.55301101.779715794.1594107255-2097271089.1594107255>
 
