@@ -19,5 +19,7 @@ Following the argument of Cortez and Silva (2008), this notebook aims to compare
 * xxx
 
 ### Main References and Links
-* <https://pdfs.semanticscholar.org/61d4/68d5254730bbecf822c6b60d7d6595d9889c.pdf?_ga=2.55301101.779715794.1594107255-2097271089.1594107255>
+* Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). New York: springer.
+
 
