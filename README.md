@@ -10,7 +10,7 @@ The ability to predict students' performance is useful to optimize schools' reso
 ### Author
 * Adelina Garamow 
 
-### Main package used for replication
+### Main package used
 * randomForest, MASS, plyr
 
 ### Main References and Links
